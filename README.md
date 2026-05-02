@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 In Kubernetes, the scheduler is responsible for assigning pods to nodes in the cluster based on various criteria. Sometimes, you might encounter situations where pods are not being scheduled as expected. This can happen due to factors such as node constraints, pod requirements, or cluster configurations.
 
 1. Node Selector
@@ -73,3 +74,6 @@ spec:
     value: ssd
     effect: NoSchedule
 ```
+=======
+# Kubernetes-scheduling
+>>>>>>> 30fb66cf35babd66f14a4473892ad4aeb2af0539
